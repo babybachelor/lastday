@@ -1,0 +1,11 @@
+{
+   "router": {
+       "host": "192.168.1.1",
+       "username": "admin",
+       "password": "password",
+       "enable_password": "enable_password",
+       "interface": "GigabitEthernet0/0/1",
+       "ip_address": "192.168.1.2",
+       "subnet_mask": "255.255.255.0"
+   }
+}
